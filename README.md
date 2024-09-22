@@ -1,9 +1,7 @@
 # Power-BI-Dashboard
-Power BI Dashboard analysing PepsiCo's stock performance from 2020-2024 using NASDAQ data
-
 PepsiCo Stock Price Analysis Dashboard (2020-2024) 📊
 
-Project Overview
+Project Overview:
 Welcome to the PepsiCo Stock Price Analysis Dashboard, a Power BI project that provides an insightful analysis of PepsiCo's stock performance over the period 2020-2024. This dashboard is designed to visualize key stock data metrics, such as opening, closing, high, and low prices, as well as trading volume and daily returns.
 
 This project leverages historical stock data from the NASDAQ exchange to create a user-friendly, interactive dashboard. It is aimed at financial analysts, investors, and anyone interested in exploring the trends and patterns of PepsiCo's stock performance over time.
